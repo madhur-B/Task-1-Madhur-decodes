@@ -7,6 +7,11 @@ A simple, terminal-based chatbot built in Python using rule-based logic. It demo
 
 
 ## 🚀 Key Feature: O(1) Efficiency
+ It uses predefined rules to generate responses.
+ By leveraging the `.get()` method, the chatbot achieves a constant **$O(1)$ lookup time**, ensuring instantaneous responses regardless of how many rules or intents   are added to the system.
+
+
+## 🛠️ Tech Stack & Concepts
 * **Language:** Python 3.x
 * **Data Structures:** Python Dictionaries
 * **Concepts covered:** Control Flow, Decision making, Deterministic and Probabilistic AI, Time complexity O(1)
