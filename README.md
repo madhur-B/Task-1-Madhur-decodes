@@ -19,5 +19,5 @@ A simple, terminal-based chatbot built in Python using rule-based logic. It demo
 
 ## 📦 Installation & Usage
 1. **Repository cloning**
-      '''bash
+   
       git clone [https://github.com/madhur-B/Task-1-Madhur-decodes.git]
