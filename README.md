@@ -1,5 +1,5 @@
 # Task-1-Madhur-decodes
-Rule-Based AI Chatbot 
+**Rule-Based AI Chatbot**
 
 ## 📷 Demo Output
 ![Chatbot Demo](chatbot_demo.png)
